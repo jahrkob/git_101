@@ -1,2 +1,2 @@
 # git_101
-I am learning to use git in terminal
+I am learning  use git in terminal
